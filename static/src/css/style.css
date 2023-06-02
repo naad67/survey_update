@@ -1,0 +1,10 @@
+
+.survey_text_class{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+.survey_input_class{
+    display: flex;
+    flex-direction: column;
+}
