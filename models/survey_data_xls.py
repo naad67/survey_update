@@ -32,3 +32,4 @@ class PartnerXlsx(models.AbstractModel):
                     sheet.write(index+1, 1, "Я согласен/согласна")
                     sheet.write(index+1, 2, "Сотрудник")
                     sheet.write(index + 1, i + 3, ans)
+

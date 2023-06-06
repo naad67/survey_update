@@ -22,6 +22,7 @@
                 ],
     # always loaded
     'data': [
+        'security/ir.model.access.csv',
         'views/survey_question.xml',
         'reports/report.xml',
     ],
