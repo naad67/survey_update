@@ -90,15 +90,10 @@
         </template>
     </data>
 
-    <template id="demison_model" name="Показания">
+    <template id="demison_model" name="Demison">
         <t t-call="survey.layout">
-            <div id="wrap">
-                <div class="oe_structure">
-                    <div class="container">
-                        <h1 class="mt-3">Показания</h1>
-                    </div>
-                </div>
-            </div>
+            <img src="/survey_update/static/img/photo3.jpeg" style="width: 100%; max-height: 600px; min-height: 300px"/>
+            <img src="/survey_update/static/img/photo2.jpeg" style="width: 100%; max-height: 600px; min-height: 300px"/>
         </t>
     </template>
 </odoo>
